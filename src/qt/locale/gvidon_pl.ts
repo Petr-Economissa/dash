@@ -3799,8 +3799,8 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Prawo autorskie (c) 2009-%i deweloperzy Bitcoin</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Gvidon Core Developers</source>
-        <translation>Prawa autorskie (C) 2014-%i deweloperzy Gvidon</translation>
+        <source>Copyright (C) 2017-%i The Gvidon Core Developers</source>
+        <translation>Prawa autorskie (C) 2017-%i deweloperzy Gvidon</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>

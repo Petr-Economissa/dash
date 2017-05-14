@@ -3778,8 +3778,8 @@ https://www.transifex.com/projects/p/gvidon/</translation>
         <translation>版權為位元幣核心開發人員自西元 2009 至 %i 年起所有</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Gvidon Core Developers</source>
-        <translation>版權為達世幣核心開發人員自西元 2014 至 %i 年起所有</translation>
+        <source>Copyright (C) 2017-%i The Gvidon Core Developers</source>
+        <translation>版權為達世幣核心開發人員自西元 2017 至 %i 年起所有</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>

@@ -4006,8 +4006,8 @@ https://www.transifex.com/projects/p/gvidon/</translation>
         <translation>Copyright (C) 2009-%i The Bitcoin Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Gvidon Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Gvidon Core Developers</translation>
+        <source>Copyright (C) 2017-%i The Gvidon Core Developers</source>
+        <translation>Copyright (C) 2017-%i The Gvidon Core Developers</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>

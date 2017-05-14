@@ -5131,8 +5131,8 @@ https://www.transifex.com/projects/p/gvidon/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2014-%i The Gvidon Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Gvidon Core Developers</translation>
+        <source>Copyright (C) 2017-%i The Gvidon Core Developers</source>
+        <translation>Copyright (C) 2017-%i The Gvidon Core Developers</translation>
     </message>
     <message>
         <location line="+14"/>
